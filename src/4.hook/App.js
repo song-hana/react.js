@@ -1,4 +1,4 @@
-import Main from './4.useContext/3.Welcome'
+import Main from './7.useEffect/4.Promise'
 
 export default function App() {
     return <Main/>
